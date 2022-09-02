@@ -1,15 +1,13 @@
-#Hirkani2003
 This project requires Python and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow
+1.NumPy
+2.Pandas
+3.Matplotlib
+4.Seaborn
+5.Scikit-Learn
+6.Tensorflow
 
-You will also need to have software installed to run and execute a Jupyter Notebook.
-                               or 
+You will also need to have software installed to run and execute a Jupyter Notebook / 
 You can use the Google Colaboratory for the model building and testing.
 
 Get the datasets from the kaggle.com site and all the datasets used are properly verified which have been used to make particular models.
